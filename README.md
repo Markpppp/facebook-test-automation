@@ -12,5 +12,5 @@ Thank you ElysianNxt for giving me the opportunity to complete this bonus task.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/facebook-test-automation.git
+   git clone git clone https://github.com/Markpppp/facebook-test-automation.git
    cd facebook-test
